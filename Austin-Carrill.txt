@@ -113,3 +113,18 @@
     'git push orgin <branch name>'
 
     37. Walk me through Lambda's git flow. 
+        1.First you fork the project from Lambda School's github
+        2.Fork it to your personal github
+        3.Download the link to the clipboard
+        4.Select the folder you want the use
+        5.Open Git Bash and clone the link 
+        6.Open the ls and find the clone, then enter the clone
+        7.Create a branch off the master via 'git checkout -b <name>'
+        8.Verify dir path, that it shows your name
+        9.Commit any changes (repeat as necessary)
+        10.Push the project via 'git push orgin <branch name>
+        11.Go to github and refresh page to see your branch
+        12.Add TL as a collaborator
+        13.Press Pull Request on github
+        14.Click the drop down, and select your github branch
+        15.Lastly click on 'Create pull request'
